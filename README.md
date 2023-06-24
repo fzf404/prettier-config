@@ -1,13 +1,15 @@
 # @fzf404/prettier-config
 
-Prettier config by fzf404
+> My Personal Prettier Config
+>
+> [简体中文](README.zh-CN.md)
 
 ## Feature
 
-- Use single quotes
-- Do not add semicolon
-- Wrap on 120 characters
-- Put bracket on same line
+- No Semi
+- Use Single Quotes
+- Wrap On 120 Characters
+- Ignore HTML White Space
 
 ## Install
 
@@ -17,9 +19,9 @@ npm i -D @fzf404/prettier-config
 
 ## Uasge
 
-Edit `package.json`
+Delete Your Prettier Config And Edit `package.json`
 
-```json
+```jsonc
 {
   // ...
   "prettier": "@fzf404/prettier-config"
