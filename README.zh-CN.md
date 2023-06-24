@@ -1,15 +1,15 @@
 # @fzf404/prettier-config
 
-> 我的 Prettier 配置
->
-> [English](README.md)
+我的 Prettier 配置
+
+[English](README.md)
 
 ## 特性
 
-- 🤔️ 分号
-- 使用单引号
-- 超过 120 字符换行
-- 忽略 HTML 空格
+- 不使用分号
+- 使用单引号替代双引号
+- 换行限制提高到 120 字符
+- 忽略 HTML 标签周围的空格
 
 ## 安装
 
