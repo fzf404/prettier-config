@@ -10,11 +10,13 @@
 - 使用单引号替代双引号
 - 换行限制提高到 120 字符
 - 忽略 HTML 标签周围的空格
+- Vue 元素中每个属性占用单独行
+- 忽略 `pnpm-lock.yaml` 文件
 
 ## 安装
 
 ```bash
-npm i -D @fzf404/prettier-config
+npm i -D prettier @fzf404/prettier-config
 ```
 
 ## 使用

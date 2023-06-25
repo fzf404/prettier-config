@@ -1,25 +1,27 @@
 # @fzf404/prettier-config
 
-My Personal Prettier Config
+My personal prettier config
 
 [简体中文](README.zh-CN.md)
 
-## Feature
+## Features
 
-- No Semi
-- Use Single Quotes
-- NewLine Until 120 Characters
-- Ignore White Space Arround HTML Tag
+- No semi
+- Use single quotes
+- Newline until 120 characters
+- Ignore space around HTML tags
+- Single attribute per line with Vue
+- Ingore format the `pnpm-lock.yaml` file
 
 ## Install
 
 ```bash
-npm i -D @fzf404/prettier-config
+npm i -D prettier @fzf404/prettier-config
 ```
 
 ## Uasge
 
-Delete Your Prettier Config And Edit `package.json`
+Delete your Prettier config and edit `package.json`
 
 ```jsonc
 {
