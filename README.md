@@ -5,7 +5,7 @@
 [![npm](https://img.shields.io/bundlephobia/min/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
 [![npm](https://img.shields.io/npm/dm/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
 
-My personal prettier config -> [简体中文](README.zh-CN.md)
+My personal Prettier config -> [简体中文](README.zh-CN.md)
 
 ## Features
 
