@@ -1,8 +1,11 @@
 # @fzf404/prettier-config
 
-My personal prettier config
+[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
+[![npm](https://img.shields.io/npm/l/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
+[![npm](https://img.shields.io/bundlephobia/min/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
+[![npm](https://img.shields.io/npm/dm/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
 
-[简体中文](README.zh-CN.md)
+My personal prettier config -> [简体中文](README.zh-CN.md)
 
 ## Features
 
@@ -19,7 +22,7 @@ My personal prettier config
 npm i -D prettier @fzf404/prettier-config
 ```
 
-## Uasge
+## Usage
 
 Delete your Prettier config and edit `package.json`
 
