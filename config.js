@@ -14,7 +14,7 @@ module.exports = {
 		{
 			files: 'pnpm-lock.yaml',
 			options: {
-				rangeEnd: 0, // default: Infinity
+				requirePragma: true, // default: false
 			},
 		},
 	],
