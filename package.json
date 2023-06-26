@@ -3,5 +3,8 @@
   "version": "0.1.1",
   "description": "Prettier config by fzf404",
   "main": "config.js",
-  "license": "MIT"
+  "license": "MIT",
+  "peerDependencies": {
+    "prettier": "^2.6.0"
+  }
 }
