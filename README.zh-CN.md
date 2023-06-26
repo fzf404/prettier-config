@@ -25,11 +25,15 @@ npm i -D prettier @fzf404/prettier-config
 
 ## 使用
 
-删除你的 Prettier 配置，然后编辑 `package.json`
+编辑 `package.json` 或 `.prettierrc.json`
 
 ```jsonc
 {
-  // ...
-  "prettier": "@fzf404/prettier-config"
+	// ...
+	"prettier": "@fzf404/prettier-config"
 }
+```
+
+```json
+"@fzf404/prettier-config"
 ```

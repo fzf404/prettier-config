@@ -25,11 +25,15 @@ npm i -D prettier @fzf404/prettier-config
 
 ## Usage
 
-Delete your Prettier config and edit `package.json`
+Edit `package.json` or `.prettierrc.json`
 
 ```jsonc
 {
-  // ...
-  "prettier": "@fzf404/prettier-config"
+	// ...
+	"prettier": "@fzf404/prettier-config"
 }
+```
+
+```json
+"@fzf404/prettier-config"
 ```
