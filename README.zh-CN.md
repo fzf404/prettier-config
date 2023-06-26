@@ -1,11 +1,11 @@
 # @fzf404/prettier-config
 
-[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/npm/l/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/bundlephobia/min/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/npm/dm/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
+[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config?color=orange)](https://npmjs.com/package/@fzf404/prettier-config)
+[![star](https://img.shields.io/github/stars/fzf404/prettier-config?color=blue)](https://github.com/fzf404/prettier-config)
+[![license](https://img.shields.io/npm/l/@fzf404/prettier-config?color=green)](https://github.com/fzf404/prettier-config/LICENSE)
+[![language](https://img.shields.io/badge/language-English-purple)](https://github.com/fzf404/prettier-config/blob/main/README.md)
 
-我的 Prettier 配置 -> [English](README.md)
+我的 Prettier 配置
 
 ## 特性
 
@@ -28,12 +28,9 @@ npm i -D prettier @fzf404/prettier-config
 编辑 `package.json` 或 `.prettierrc.json`
 
 ```jsonc
-{
-	// ...
-	"prettier": "@fzf404/prettier-config"
-}
-```
+// package.json
+"prettier": "@fzf404/prettier-config"
 
-```json
+// .prettierrc.json
 "@fzf404/prettier-config"
 ```

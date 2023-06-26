@@ -1,11 +1,11 @@
 # @fzf404/prettier-config
 
-[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/npm/l/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/bundlephobia/min/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
-[![npm](https://img.shields.io/npm/dm/@fzf404/prettier-config)](https://npmjs.com/package/@fzf404/prettier-config)
+[![npm](https://img.shields.io/npm/v/@fzf404/prettier-config?color=orange)](https://npmjs.com/package/@fzf404/prettier-config)
+[![star](https://img.shields.io/github/stars/fzf404/prettier-config?color=blue)](https://github.com/fzf404/prettier-config)
+[![license](https://img.shields.io/npm/l/@fzf404/prettier-config?color=green)](https://github.com/fzf404/prettier-config/LICENSE)
+[![language](https://img.shields.io/badge/language-简体中文-purple)](https://github.com/fzf404/prettier-config/blob/main/README.zh-CN.md)
 
-My personal Prettier config -> [简体中文](README.zh-CN.md)
+My personal Prettier config
 
 ## Features
 
@@ -28,12 +28,9 @@ npm i -D prettier @fzf404/prettier-config
 Edit `package.json` or `.prettierrc.json`
 
 ```jsonc
-{
-	// ...
-	"prettier": "@fzf404/prettier-config"
-}
-```
+// package.json
+"prettier": "@fzf404/prettier-config"
 
-```json
+// .prettierrc.json
 "@fzf404/prettier-config"
 ```
