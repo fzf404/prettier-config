@@ -1,5 +1,6 @@
 module.exports = {
   semi: false, // default: true
+  useTabs: true, // default: false
   printWidth: 120, // default: 80
   singleQuote: true, // default: false
   htmlWhitespaceSensitivity: 'ignore', // default: 'css'
