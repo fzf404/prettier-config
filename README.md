@@ -11,6 +11,7 @@ My personal Prettier config -> [简体中文](README.zh-CN.md)
 
 - No semi
 - Use single quotes
+- Replace space with tab
 - Newline until 120 characters
 - Ignore space around HTML tags
 - Single attribute per line with Vue

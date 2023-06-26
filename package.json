@@ -1,6 +1,6 @@
 {
   "name": "@fzf404/prettier-config",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "description": "Prettier config by fzf404",
   "main": "config.js",
   "license": "MIT",
