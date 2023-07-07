@@ -5,6 +5,6 @@
   "license": "MIT",
   "main": "config.js",
   "peerDependencies": {
-    "prettier": ">=2.6.0"
+    "prettier": "^2.6.0 || ^3.0.0"
   }
 }
