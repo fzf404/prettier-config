@@ -13,7 +13,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 - Use single quotes ( 使用单引号 )
 - Newline until 120 characters ( 换行限制 120 字符 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
-- Single attribute per line with Vue ( Vue 属性占用单独行 )
+- Single attribute per line with Vue ( Vue 每个属性占用单独行 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
 
 ## Install ( 安装 )
