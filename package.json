@@ -2,9 +2,9 @@
   "name": "@fzf404/prettier-config",
   "version": "0.3.1",
   "description": "Prettier config by fzf404",
-  "main": "config.js",
   "license": "MIT",
+  "main": "config.js",
   "peerDependencies": {
-    "prettier": "^2.6.0"
+    "prettier": ">=2.6.0"
   }
 }
