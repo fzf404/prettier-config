@@ -16,29 +16,25 @@ My personal Prettier config ( 我的 Prettier 配置 )
 - Single attribute per line with Vue ( Vue 每个属性占用单独行 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
 
-## Usage ( 使用 )
-
-1. Install `prettier` and `@fzf404/prettier-config` ( 安装 `prettier` 和 `@fzf404/prettier-config` )
+## Install ( 安装 )
 
 ```bash
 npm i -D prettier @fzf404/prettier-config
 ```
 
-1. Add config to `package.json` or `.prettierrc.json` ( 添加配置到 `package.json` 或 `.prettierrc.json` )
+## Usage ( 使用 )
 
-```jsonc
-// package.json
-"prettier": "@fzf404/prettier-config"
-
-// .prettierrc.json
-"@fzf404/prettier-config"
-```
-
-3. Edit `package.json` scripts ( 编辑 `package.json` 脚本 )
+Edit `package.json` or `.prettierrc.json` ( 编辑 `package.json` 或 `.prettierrc.json` )
 
 ```jsonc
 // package.json
 "scripts": {
   "format": "prettier --cache --write ."
 }
+
+// package.json
+"prettier": "@fzf404/prettier-config"
+
+// .prettierrc.json
+"@fzf404/prettier-config"
 ```
