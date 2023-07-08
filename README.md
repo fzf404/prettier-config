@@ -42,5 +42,3 @@ npm i -D prettier @fzf404/prettier-config
   "format": "prettier --cache --write ."
 }
 ```
-
-
