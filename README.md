@@ -9,12 +9,18 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 ## Features ( 特性 )
 
+### Configs ( 配置 )
+
 - No semi ( 不使用分号 )
 - Use single quotes ( 使用单引号 )
 - Newline until 120 characters ( 换行限制 120 字符 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
 - Single attribute per line with Vue ( Vue 每个属性占用单独行 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
+
+### Plugins ( 插件 )
+
+- Support Tailwind CSS sort ( 支持 Tailwind CSS 排序 )
 
 ## Install ( 安装 )
 
@@ -24,17 +30,14 @@ npm i -D prettier @fzf404/prettier-config
 
 ## Usage ( 使用 )
 
-Edit `package.json` or `.prettierrc.json` ( 编辑 `package.json` 或 `.prettierrc.json` )
+Edit `package.json` ( 编辑 `package.json` )
 
 ```jsonc
-// package.json
+// config
+"prettier": "@fzf404/prettier-config"
+
+// script
 "scripts": {
   "format": "prettier --cache --write ."
 }
-
-// package.json
-"prettier": "@fzf404/prettier-config"
-
-// .prettierrc.json
-"@fzf404/prettier-config"
 ```
