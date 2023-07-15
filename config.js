@@ -3,7 +3,6 @@ module.exports = {
   semi: false, // default: true
   singleQuote: true, // default: false
   htmlWhitespaceSensitivity: 'ignore', // default: 'css'
-  plugins: [require('prettier-plugin-tailwindcss')], // default: []
   overrides: [
     {
       files: '*.vue',
