@@ -6,11 +6,10 @@
   "main": "config.js",
   "prettier": "./config.js",
   "dependencies": {
-    "local-pkg": "^0.4.3",
-    "prettier-plugin-tailwindcss": "^0.3.0"
+    "prettier-plugin-tailwindcss": "^0.4.1"
   },
   "devDependencies": {
-    "prettier": "^2.8.8"
+    "prettier": "^3.0.0"
   },
   "peerDependencies": {
     "prettier": "^2.6.0 || ^3.0.0"
