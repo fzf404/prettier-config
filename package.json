@@ -4,11 +4,11 @@
   "description": "Prettier config by fzf404",
   "license": "MIT",
   "main": "config.js",
-  "prettier": "./config.js",
-  "devDependencies": {
-    "prettier": "^3.0.0"
-  },
+  "files": [
+    "config.js"
+  ],
   "peerDependencies": {
     "prettier": "^2.6.0 || ^3.0.0"
-  }
+  },
+  "prettier": "./config.js"
 }
