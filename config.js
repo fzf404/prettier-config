@@ -1,5 +1,5 @@
 /** @type {import('prettier').Config} */
-module.exports = {
+export default {
   semi: false, // default: true
   singleQuote: true, // default: false
   trailingComma: 'all', // default: 'es5'
@@ -18,4 +18,5 @@ module.exports = {
       },
     },
   ],
+  plugins: ['prettier-plugin-css-order', 'prettier-plugin-tailwindcss'], // default: []
 }
