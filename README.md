@@ -9,11 +9,18 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 ## Features ( 特性 )
 
+### Configs ( 配置 )
+
 - No semi ( 不使用分号 )
 - Use single quotes ( 使用单引号 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
 - Single attribute per line with Vue ( Vue 每个属性占用单独行 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
+
+### Plugins ( 插件 )
+
+- Support CSS sort ( 支持 CSS 排序 )
+- Support Tailwind CSS sort ( 支持 Tailwind CSS 排序 )
 
 ## Install ( 安装 )
 
