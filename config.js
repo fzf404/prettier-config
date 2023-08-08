@@ -11,5 +11,10 @@ export default {
       },
     },
   ],
-  plugins: ['prettier-plugin-css-order', 'prettier-plugin-tailwindcss'], // default: []
+  plugins: [
+    'prettier-plugin-css-order',
+    'prettier-plugin-tailwindcss',
+    '@ianvs/prettier-plugin-sort-imports',
+  ],
+  importOrder: ['^~', '', '^@'],
 }
