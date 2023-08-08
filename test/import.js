@@ -1,4 +1,5 @@
 import vue from 'vue'
+
 import app from '~/app'
 
 import router from '@/router'
