@@ -16,5 +16,14 @@ export default {
     'prettier-plugin-tailwindcss',
     '@ianvs/prettier-plugin-sort-imports',
   ],
-  importOrder: ['^~', '', '^@'],
+  importOrder: [
+    '^\\w',
+    '<THIRD_PARTY_MODULES>',
+    '',
+    '^~/',
+    '',
+    '^@/',
+    '',
+    '^[./]',
+  ],
 }
