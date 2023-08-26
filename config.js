@@ -13,6 +13,7 @@ export default {
   ],
   plugins: [
     'prettier-plugin-css-order',
+    'prettier-plugin-sort-json',
     '@ianvs/prettier-plugin-sort-imports',
     'prettier-plugin-tailwindcss',
   ],

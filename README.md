@@ -20,6 +20,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 - Support CSS sort ( 支持 CSS 排序 )
 - Support import sort ( 支持导入排序 )
+- Support JSON sort ( 支持 JSON 排序 )
 - Support Tailwind CSS sort ( 支持 Tailwind CSS 排序 )
 
 ## Install ( 安装 )
