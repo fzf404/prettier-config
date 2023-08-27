@@ -13,7 +13,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 - No semi ( 不使用分号 )
 - Use single quotes ( 使用单引号 )
-- Newline until 120 characters ( 换行限制 120 字符 )
+- Newline until 100 characters ( 换行限制 100 字符 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
 
