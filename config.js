@@ -1,7 +1,6 @@
 /** @type {import('prettier').Config} */
 export default {
   semi: false, // default: true
-  printWidth: 100, // default: 80
   singleQuote: true, // default: false
   htmlWhitespaceSensitivity: 'ignore', // default: 'css'
   overrides: [
