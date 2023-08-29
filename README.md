@@ -7,9 +7,7 @@
 
 My personal Prettier config ( 我的 Prettier 配置 )
 
-## Features ( 特性 )
-
-### Configs ( 配置 )
+## Configs ( 配置 )
 
 - No semi ( 不使用分号 )
 - Use single quotes ( 使用单引号 )
@@ -17,7 +15,7 @@ My personal Prettier config ( 我的 Prettier 配置 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
 
-### Plugins ( 插件 )
+## Plugins ( 插件 )
 
 - Support CSS sort ( 支持 CSS 排序 ) [prettier-plugin-css-order](https://github.com/Siilwyn/prettier-plugin-css-order)
 - Support import sort ( 支持 import 排序 ) [@ianvs/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
