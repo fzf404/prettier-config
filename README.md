@@ -19,9 +19,9 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 ### Plugins ( 插件 )
 
-- Support CSS sort ( 支持 CSS 排序 )
-- Support import sort ( 支持导入排序 )
-- Support Tailwind CSS sort ( 支持 Tailwind CSS 排序 )
+- Support CSS sort ( 支持 CSS 排序 ) [prettier-plugin-css-order](https://github.com/Siilwyn/prettier-plugin-css-order)
+- Support import sort ( 支持 import 排序 ) [@ianvs/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
+- Support Tailwind CSS sort ( 支持 Tailwind CSS 排序 ) [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
 
 ## Install ( 安装 )
 
