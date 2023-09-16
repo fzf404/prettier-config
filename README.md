@@ -14,12 +14,6 @@ My personal Prettier config ( 我的 Prettier 配置 )
 - Ignore space around HTML tags ( 忽略 HTML 标签周围空格 )
 - Ignore `pnpm-lock.yaml` file ( 忽略 `pnpm-lock.yaml` 文件 )
 
-## Plugins ( 插件 )
-
-- CSS sort ( CSS 排序 ) [prettier-plugin-css-order](https://github.com/Siilwyn/prettier-plugin-css-order)
-- import sort ( import 排序 ) [@ianvs/prettier-plugin-sort-imports](https://github.com/IanVS/prettier-plugin-sort-imports)
-- Tailwind CSS sort ( Tailwind CSS 排序 ) [prettier-plugin-tailwindcss](https://github.com/tailwindlabs/prettier-plugin-tailwindcss)
-
 ## Install ( 安装 )
 
 ```bash
