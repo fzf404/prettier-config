@@ -9,15 +9,15 @@
     "url": "git+https://github.com/fzf404/prettier-config.git"
   },
   "files": [
-    "config.js"
+    "index.js"
   ],
   "type": "module",
-  "main": "config.js",
+  "main": "index.js",
   "scripts": {
     "format": "prettier --cache --write ."
   },
   "peerDependencies": {
     "prettier": "^3.0.0"
   },
-  "prettier": "./config.js"
+  "prettier": "./index.js"
 }
