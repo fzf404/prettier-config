@@ -18,13 +18,13 @@ My personal Prettier config ( 我的 Prettier 配置 )
 
 ```bash
 # npm
-npm i -D prettier @fzf404/prettier-config
+npm i -D @fzf404/prettier-config
 
 # yarn
-yarn i -D prettier @fzf404/prettier-config
+yarn i -D @fzf404/prettier-config
 
 # pnpm
-pnpm i -D prettier @fzf404/prettier-config
+pnpm i -D @fzf404/prettier-config
 ```
 
 ## Usage ( 使用 )
