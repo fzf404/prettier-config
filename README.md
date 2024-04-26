@@ -34,15 +34,15 @@ Edit `package.json` ( 编辑 `package.json` )
 ```jsonc
 {
   "scripts": {
-    "format": "prettier --cache --write ."
+    "format": "prettier --cache --write .",
   },
-  "prettier": "@fzf404/prettier-config"
+  "prettier": "@fzf404/prettier-config",
 }
 ```
 
 Edit `Visual Studio Code` Setting ( 编辑 `Visual Studio Code` 设置 )
 
-```jsonc
+```json
 {
   "[vue]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
