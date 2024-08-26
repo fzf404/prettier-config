@@ -17,13 +17,6 @@ My personal Prettier config ( 我的 Prettier 配置 )
 ## Install ( 安装 )
 
 ```bash
-# npm
-npm i -D @fzf404/prettier-config
-
-# yarn
-yarn i -D @fzf404/prettier-config
-
-# pnpm
 pnpm i -D @fzf404/prettier-config
 ```
 
